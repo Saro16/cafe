@@ -34,24 +34,26 @@ font-size: x-large;    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-se
  @keyframes slide{
     25%{
         background-image:url(coffee2.webp) ;
-        background-size: 55% 100% ;
-        
-          
+        background-size: 55% 100% ;   
     }
     50%{
-        background-image:url(coffee4.webp) ;
+        background-image:url(coffee11.webp) ;
         background-size:  55% 100%;
         
     }
     75%{
-        background-color: url(coffee3.jpg);
-        background-size:55% 100% ;
-        
+        background-color: url(coffee12.jpg);
+        background-size:55% 100% ;  
+    }
+    90%{
+        background-image: url(coffee14.jpg);
+        background-size: 55% 100%;
+
     }
     100%{
-        background-image: url(Frappe-Coffee.jpg);
+        background-image: url(Coffee13.jpg);
         background-size: 55% 100%;
-        
+
     }
 } 
 .img-container p{
@@ -137,40 +139,10 @@ nav{
     text-transform: capitalize;
 }
 
-/* .history{
-    width: 100%;
-    height: 200%;
-    background-color: #FF71CD;
-
-}
-.history img{
-    height: 50%;
-    border: 5px solid white;
-    width: 600px;
-}
-.history h1 {
-    font-size: 20px;
-    color: black;
-    right: 50%;
-    text-align: center;
-    
-} */
-    
-/* /* .card .history  p{
-    float: right;
-    font-size: 40px;
-    color: black;
-    padding-top: 10%;
-    padding-right: 800px;
-    border: 2px solid white;
-     
-} */
-
 .history p {
     padding-left:800px ;
     padding-top: 90px;
     font-size: 20px;
-    border: 2px solid white;
     background-color: antiquewhite;
     padding-bottom: 30px;
     height: 400px;
@@ -178,22 +150,25 @@ nav{
 
 .history img{
     float: left;
-    height: 400px;
+    height: 490px;
     border-radius: 5px solid black;
     padding-left: 10px;
+    width: 50%;
+    padding-top: 30px;
 }
 footer{
     background-color: white;
     display: flex;
+    justify-content: space-between;
 }
 .end h3{
     color: grey;
-    padding-left: 30px;
+    padding-left: 100px;
     text-transform: uppercase;
 }
 .end h4{
     color: gray;
-    padding-left: 30px;
+    padding-left: 100px;
     text-transform: capitalize;
 }
 .end1 h3{
@@ -206,6 +181,29 @@ footer{
     padding-left: 150px;
     text-transform: capitalize;
 }
+.end2 h3{
+    color: grey;
+    text-transform: uppercase;
+    padding-left:200px ;
+}
+.end2 h4{
+    color: gray;
+    padding-left: 200px;
+    text-transform: capitalize;
+}
+.end3 h3{
+    color: grey;
+    text-transform: uppercase;
+    padding-left:250px;
+    padding-right: 40px;
+}
+.end3 h4{
+    color: gray;
+    padding-left: 250px;
+    text-transform: capitalize;
+}
+
+
 
 
 
