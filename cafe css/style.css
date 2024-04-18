@@ -74,22 +74,21 @@ font-size: x-large;    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-se
     font-size: 45px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+
 .food{
     background-color: #A367B1;
 }
 .food h1{
     float: left; 
     color:white;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
-    text-transform: uppercase;
+    font-size: 70px;
     background-color: #A367B1;
     width: 55%;
     height: 380px;
-    padding-top: 20%;
+    padding-top: 15%;
 }
 .food img{
-    /* float: right; */
     width: 45%;
     height: 700px;   
     display: flex;
@@ -136,7 +135,6 @@ nav{
 .card-content{
     padding: 16px;
     font-size: 20px;
-    text-transform: capitalize;
 }
 
 .history p {
