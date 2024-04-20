@@ -92,6 +92,7 @@ font-size: x-large;    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-se
     width: 45%;
     height: 700px;   
     display: flex;
+    
 } 
 .card1{
     background-color: #FFD1E3;
