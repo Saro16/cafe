@@ -138,9 +138,9 @@ nav{
 }
 
 .history p {
-    padding-left:800px ;
+    padding-left:800px ; 
     padding-top: 90px;
-    font-size: 20px;
+    font-size: 25px;
     background-color: antiquewhite;
     padding-bottom: 30px;
     height: 400px;
@@ -149,10 +149,10 @@ nav{
 .history img{
     float: left;
     height: 490px;
-    border-radius: 5px solid black;
-    padding-left: 10px;
+    border-radius: 2px solid rgb(226, 219, 219);
     width: 50%;
-    padding-top: 30px;
+    /* padding-top: 30px; */
+
 }
 footer{
     background-color: white;
