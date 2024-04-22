@@ -1,7 +1,7 @@
 .image{
     background-color: #1F2544; 
     padding-top: 10px;
-    padding-left: 30px;
+    /* padding-left: 30px; */
     
      
 }
@@ -32,7 +32,7 @@
 .history img{
     float: left;
     height: 490px;
-    border: 17px solid white;
+    border: 17px solid black;
     width: 50%;
     /* padding-top: 15px;   */
 

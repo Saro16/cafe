@@ -1,7 +1,7 @@
 .image{
     background-color: #1F2544; 
     padding-top: 10px;
-    padding-left: 30px;
+    /* padding-left: 30px; */
     
      
 }
@@ -20,6 +20,9 @@
     text-decoration: none;  
     padding: 30px;
 }
+
+
+
 .card1{
     background-color: #FFD1E3;
     height: 40%;
@@ -41,7 +44,9 @@
 nav{
     background-color: #FFD1E3;
     width: 100%;
-    padding-left: 0;
+    margin-bottom: 10px;
+    
+    margin-left: 0;
 }
 .card-container{
     justify-content:center;
