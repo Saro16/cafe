@@ -23,7 +23,7 @@
 .img-container{
     background-color: #474F7A;
     
-    height: 500px;
+    height: 600px;
     background-image: url(affogato.jpg);
     animation:slide 20s infinite;
     background-repeat: no-repeat;

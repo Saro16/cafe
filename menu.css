@@ -22,19 +22,68 @@
 }
 .food{
     background-color: #A367B1;
+    width: 100%;
 }
 .food h1{
-    float: left; 
+    /* float: left;  */
     color:white;
+    justify-content: center;
+    text-align: center;
     font-size: 70px;
     background-color: #A367B1;
-    width: 55%;
-    height: 380px;
-    padding-top: 15%;
+    /* width: 55%; */
+    /* height: 380px; */
+    height: 900px;
+    /* padding-top: 15%; */
 }
-.food img{
-    width: 45%;
-    height: 700px;   
+
+.card1{
+    background-color: #FFD1E3;
+    height: 40%;
+    width: 100%;
+}
+.card1 h1{
+   text-align: center;
+   padding: 30px;
+   font-size: 50px;
+   text-transform: uppercase;
+}
+.custom{
     display: flex;
+    padding: 30px;
+    margin-top: 0%;
+    height: 400px;
+    justify-content: space-around;
+}
+nav{
+    background-color: #FFD1E3;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-left: 0;
+    height: 500px;
+}
+.card-container{
+    justify-content:center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.card img{
+    width: 100%;
+    height: auto;
+}
+.card{
+    width: 300px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin-top: 20px;
     
-} 
+    }
+.card-content{
+    padding: 16px;
+    font-size: 20px;
+}
+
+
+
