@@ -30,12 +30,19 @@
     height: 400px;
 }
 
-.history img{
+/* .history img{
     float: left;
     height: 420px;
     border: 50px solid black;
     width: 40%;
     
+} */
+.history video{
+    width: 50%;
+    float: left;
+    height:450px ;
+    border: 30px solid antiquewhite;
+
 }
 footer{
     background-color: white;
