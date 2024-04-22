@@ -27,23 +27,20 @@
     color:white;
     font-size: 70px;
     background-color: #A367B1;
-    height: 900px;
+    height: 700px;
     text-align: center;
 }
 .card1{
-    background-color: #F27BBD; 
-    /* height: 40%; */
+    background-color: #FFCBCB; 
     width: 100%;
 }
 .card1 h1{
    text-align: center;
-   /* padding: 30px; */
    font-size: 50px;
    text-transform: uppercase;
 }
 .custom{
     display: inline-block;
-    /* padding: 30px; */
     margin-top: 0%;
     height: 400px;
     padding-left: 100px;
@@ -51,7 +48,7 @@
     
 }
 nav{
-    background-color: #F27BBD; 
+    background-color: #FFCBCB; 
     width: 100%;
     margin-bottom: 10px;
     height: 900px;
@@ -78,8 +75,15 @@ nav{
     
     }
 .card-content{
-    padding: 16px;
-    font-size: 20px;
+    /* padding: 16px; */
+    font-size: 25px;
+    text-align: center;
+}
+.card:hover{
+    
+        transform:scale(1.2);
+        z-index:2;
+    
 }
 
 
