@@ -35,8 +35,7 @@
     height: 420px;
     border: 50px solid black;
     width: 40%;
-    /* margin-left: 30px; */
-    /* margin-top: 30px; */
+    
 }
 footer{
     background-color: white;
@@ -45,22 +44,22 @@ footer{
 }
 .end h3{
     color: grey;
-    padding-left: 100px;
+    padding-left: 170px;
     text-transform: uppercase;
 }
 .end h4{
     color: gray;
-    padding-left: 100px;
+    padding-left: 170px;
     text-transform: capitalize;
 }
 .end1 h3{
     color: grey;
     text-transform: uppercase;
-    padding-left:150px ;
+    padding-left:100px ;
 }
 .end1 h4{
     color: gray;
-    padding-left: 1500px;
+    padding-left: 100px;
     text-transform: capitalize;
 }
 
