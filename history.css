@@ -56,19 +56,19 @@ footer{
 .end1 h3{
     color: grey;
     text-transform: uppercase;
-    padding-left:150px ;
+    padding-left:200px ;
 }
 .end1 h4{
     color: gray;
-    padding-left: 150px;
+    padding-left: 200px;
     text-transform: capitalize;
 }
 
 .end3 h3{
     color: grey;
     text-transform: uppercase;
-    padding-left:400px;
-    padding-right: 40px;
+    padding-left:300px;
+    /* padding-right: 40px; */
 
 }
 .end3 h4{
