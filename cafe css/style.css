@@ -76,131 +76,11 @@
 }
 
 
-/* .food{
-    background-color: #A367B1;
-}
-.food h1{
-    float: left; 
-    color:white;
-    font-size: 70px;
-    background-color: #A367B1;
-    width: 55%;
-    height: 380px;
-    padding-top: 15%;
-}
-.food img{
-    width: 45%;
-    height: 700px;   
-    display: flex;
+
     
-} 
-.card1{
-    background-color: #FFD1E3;
-    height: 40%;
-    width: 100%;
-}
-.card1 h1{ */
-   /* text-align: center;
-   padding: 30px;
-   font-size: 50px;
-   text-transform: uppercase;
-}
-.custom{
-    display: flex;
-    padding: 30px;
-    margin-top: 0%;
-    height: 400px;
-    justify-content: space-around;
-}
-nav{
-    background-color: #FFD1E3;
-}
-.card-container{
-    justify-content:center;
-    flex-wrap: wrap;
-    display: flex;
-}
-.card img{
-    width: 100%;
-    height: auto;
-} */
-/* .card{
-    width: 300px;
-    background-color: #f0f0f0;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
-    margin-top: 20px;
+
     
-    }
-.card-content{
-    padding: 16px;
-    font-size: 20px;
-}
-
-.history p {
-    padding-left:800px ; 
-    padding-top: 90px;
-    font-size: 25px;
-    background-color: antiquewhite;
-    padding-bottom: 30px;
-    height: 400px;
-}
-
-.history img{
-    float: left;
-    height: 490px;
-    border: 17px solid white;
-    width: 50%;
-    /* padding-top: 15px;   */
-
-}
-footer{
-    background-color: white;
-    display: flex;
-    justify-content: space-between;
-}
-.end h3{
-    color: grey;
-    padding-left: 100px;
-    text-transform: uppercase;
-}
-.end h4{
-    color: gray;
-    padding-left: 100px;
-    text-transform: capitalize;
-}
-.end1 h3{
-    color: grey;
-    text-transform: uppercase;
-    padding-left:150px ;
-}
-.end1 h4{
-    color: gray;
-    padding-left: 150px;
-    text-transform: capitalize;
-}
-.end2 h3{
-    color: grey;
-    text-transform: uppercase;
-    padding-left:200px ;
-}
-.end2 h4{
-    color: gray;
-    padding-left: 200px;
-    text-transform: capitalize;
-}
-.end3 h3{
-    color: grey;
-    text-transform: uppercase;
-    padding-left:250px;
-    padding-right: 40px;
-}
-.end3 h4{
-    color: gray;
-    padding-left: 250px;
-    text-transform: capitalize;
-}
+    
 
 
 
@@ -216,4 +96,4 @@ footer{
 
 
 
- */
+ 
