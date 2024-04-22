@@ -150,9 +150,9 @@ nav{
 .history img{
     float: left;
     height: 490px;
-    border-radius: 2px solid rgb(226, 219, 219);
+    border: 17px solid white;
     width: 50%;
-    /* padding-top: 30px; */
+    /* padding-top: 15px;   */
 
 }
 footer{

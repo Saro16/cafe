@@ -1,0 +1,47 @@
+
+
+
+.card{
+    background-color: #FFD1E3;
+    height: 40%;
+    width: 100%;
+}
+.card1 h1{
+   text-align: center;
+   padding: 30px;
+   font-size: 50px;
+   text-transform: uppercase;
+}
+.custom{
+    display: flex;
+    padding: 30px;
+    margin-top: 0%;
+    height: 400px;
+    justify-content: space-around;
+}
+nav{
+    background-color: #FFD1E3;
+}
+.card-container{
+    justify-content:center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.card img{
+    width: 100%;
+    height: auto;
+}
+.card{
+    width: 300px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin-top: 20px;
+    
+    }
+.card-content{
+    padding: 16px;
+    font-size: 20px;
+}
+

@@ -1,0 +1,18 @@
+.food{
+    background-color: #A367B1;
+}
+.food h1{
+    float: left; 
+    color:white;
+    font-size: 70px;
+    background-color: #A367B1;
+    width: 55%;
+    height: 380px;
+    padding-top: 15%;
+}
+.food img{
+    width: 45%;
+    height: 700px;   
+    display: flex;
+    
+} 
