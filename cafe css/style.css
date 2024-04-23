@@ -1,9 +1,7 @@
 .image{
     background-color: #1F2544; 
     padding-top: 10px;
-    padding-left: 30px;
-    
-     
+    padding-left: 30px;  
 }
 .content{
     display: inline;
@@ -15,6 +13,10 @@
     margin-top: 5%;
     
 } 
+header{
+    background-color: #1F2544; 
+
+}
 .content a{
     color: white;
     text-decoration: none;  
@@ -78,43 +80,56 @@
 @media screen and (max-width:600px)
 {
     .image{
-        padding-top: 10px;
-        padding-left: 30px;
+        padding-top: 0;
+        padding-left: 10px;
     }
+    
     .content{
         display: inline;
         float: right;
-        text-transform: uppercase;
-        list-style: none;
-        margin-top: 5%;
+        margin-top: 0;
+
     }
     .content a{
-        padding: 30px;
+        /* padding: 30px; */
+        font-size: 10px;
+
     }
     .img-container{
-        
-        height: 600px;
+
+        height: auto;
         animation:slide 20s infinite;
-        background-repeat: no-repeat;
         overflow: hidden;
+        width:auto;
+
     }
     @keyframes slide{
         25%{
-            background-size: 55% 100% ;   
+            background-size:10px 50px  ; 
+            width: auto; 
+
         }
         50%{
-            background-size:  55% 100%;
+            background-size:  40% 20%;
+            width: auto; 
+             
             
         }
         75%{
-            background-size:55% 100% ;  
+            background-size:10% 50% ; 
+            width: auto; 
+            /* height: auto;  */
         }
         90%{
-            background-size: 55% 100%;
+            background-size: 10% 50%;
+            width: auto; 
+            /* height: 100%;  */
     
         }
         100%{
-            background-size: 55% 100%;
+            /* background-size: 55% 100%; */
+            width: auto; 
+            height: auto; 
     
         }
     } 
